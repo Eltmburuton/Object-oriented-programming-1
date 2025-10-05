@@ -79,5 +79,7 @@ int main(){
     cout<<"Circle details"<<endl;
     cout<< "Color: " << circ.getColor() <<endl;
     cout<< "Color: " << circ.calcAreaCirc() <<endl;
-
+    
+return 0;
 }
+
