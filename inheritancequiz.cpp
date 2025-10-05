@@ -1,7 +1,7 @@
 /* 
 Name: Elton Mwangi
 Reg no: BSC-03-0112/2025
-Description:
+Description: Demonstrating Inheritance concept
 */
 #include <iostream>
 using namespace std;
@@ -79,4 +79,5 @@ int main(){
     cout<<"Circle details"<<endl;
     cout<< "Color: " << circ.getColor() <<endl;
     cout<< "Color: " << circ.calcAreaCirc() <<endl;
+
 }
